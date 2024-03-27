@@ -1,10 +1,10 @@
-<header>
+<header>Hi I am new here!!!
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< Author notes: Course header >>>my is Saidi Atolagbe trying to learn new thing
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  Add your open source license, GitHub uses MIT license. with help of github.com/Aboladale01
 -->
 
 # Introduction to GitHub
