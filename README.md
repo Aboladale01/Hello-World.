@@ -14,6 +14,6 @@ GitHub's Aboladale01
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| JavaScript    |
+|     2| Python        |
+|     3| SQL           |
