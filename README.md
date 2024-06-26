@@ -3,3 +3,10 @@
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+
+##About me#. header
+
+##about me
+Hi, I'm Saidi. You might recognize me as 
+GitHub's Aboladale01 
